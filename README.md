@@ -1,4 +1,4 @@
-# simple-password-gen
+# secure-password-gen
  This is a windows form application written in Visual Studio C# that can generate a secure password string based on the users preferences.
  The exe uploaded is ready to run and use.
  
